@@ -2,6 +2,8 @@
 
 Ez a program egy excel táblát hoz létre a külgazdasági attasék adataiból.
 
+A scraper erről az oldalról szedi ki az adatokat: [https://exporthungary.gov.hu/kulgazdasagi-attasek](https://exporthungary.gov.hu/kulgazdasagi-attasek)
+
 ## Használat
 
 1. Függelékek telepítése: `yarn install`
